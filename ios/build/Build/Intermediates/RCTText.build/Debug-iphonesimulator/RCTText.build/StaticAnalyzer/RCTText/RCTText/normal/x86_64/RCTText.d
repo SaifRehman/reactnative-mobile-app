@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

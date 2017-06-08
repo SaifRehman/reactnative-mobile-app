@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_7d21791c4fabf1b6f582df0d2c8cc07c22d3a405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76a0bc980aa58d4b41834eb5e9ff3c4ce681ee2f">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c72886cf0bb3ca2ab6071b5147b88f391170f8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_36214d84b3c83794db7d38c9f1d3e9eed501da44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8cc8e960b34ce1e616549aa57c197093d13c2333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4686937db8422217c8dd6f327e076f9a6ce1c991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_7dbd5f78235d1e2ed960452b32c6afb537e38d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_c5305a6f2046fc6881f497b2af68b495d9c9e4d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_221ef88c150733055437e302e271d0e760ed3225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_3e9deddf19ce896577fff24bf72395b5d345c160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_1bac7028c0e7d6a63fba7d70244a9f570d8313f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_d989daab3a2be88771cc99cca33c2d35974f6c86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a7ecf69ad82618a6cc1f4e90f0c329bcd0dd5d42">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3582c7bb14fcaecb314c35d565c55f2c7b411cb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_70eeb5f6af0f80d52234b908378c99519bea74d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_9659d379d9c7e190915ce4cf27ce279b0e5b3ecc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_db7662733246e3d3cbc77670e0d7520a7130c83b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_245b541bdd1070040823c43d0e43acfd665be1a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_0c7033c3accbf7bf39309cd16fab61743820f249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_cc7696bd86ce1dfd7f692c4dc55fe484bba9802c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_97a2705bf785660ef24ff018e286d9135d49eec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_76e36fb8d0a82565989c138c66fa6f54b0cf2e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_24bf19c19361336f80c772c9245cb32c5cb1fc39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_a0cc350a969533f561c7fb1033f96cf704254b22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_bf5a2423c5c1e1956a9b5a9a29bdbbb5d9810e4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_b20a2c3c71d2c042cf17bcdfc90caf5f53ff9914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_411bbcea613b5ace2dc311a4488b0c2db2c55ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_3889532379214191b3cd38596a53fb9206090fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_8da1587712c2d1911e2a337bffab4eaec693a0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.42.3_c3376ed38df4e7aa0d5396a839127f2b89969caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_4d370a5579721eb1cadd7ab47dfdb19d31bf6515/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_dbc63c43bbdc5db399ff4f0e4a4eafa58b6ef0d1/classes.dex" />
+    </item>
+
+</items>

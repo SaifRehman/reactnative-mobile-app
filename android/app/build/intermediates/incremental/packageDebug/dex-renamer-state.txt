@@ -1,0 +1,7 @@
+#Fri Mar 31 00:38:31 GST 2017
+base.0=/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c72886cf0bb3ca2ab6071b5147b88f391170f8b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3582c7bb14fcaecb314c35d565c55f2c7b411cb4/classes.dex
+base.1=/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3582c7bb14fcaecb314c35d565c55f2c7b411cb4
+file.0=/Users/saifrehman/Desktop/liffinal/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c72886cf0bb3ca2ab6071b5147b88f391170f8b1/classes.dex

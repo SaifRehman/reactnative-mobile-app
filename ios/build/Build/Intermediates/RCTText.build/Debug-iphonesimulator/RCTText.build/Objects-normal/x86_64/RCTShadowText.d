@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/saifrehman/Desktop/muse/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/saifrehman/Desktop/muse/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h
